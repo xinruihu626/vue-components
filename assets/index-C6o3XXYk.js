@@ -1,0 +1,1 @@
+import{_ as o,c as n,a as c,b as r,o as s}from"./index-B7M1Ycix.js";const t={};function a(_,p){const e=r("m-progress");return s(),n("div",null,[c(e,{type:"circle",isAnimation:"",percentage:60})])}const m=o(t,[["render",a]]);export{m as default};
